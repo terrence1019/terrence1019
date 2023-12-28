@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @terrence1019
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning to be a great .NET Software Developer
-- 💞️ I’m looking to collaborate on medium-size .NET Projects
+- 🌱 I’m currently developing using .NET (C#) and Django (Python)
+- 💞️ I’m looking to collaborate on medium-size .NET and Django Projects
 - 📫 How to reach me: terrence1019@gmail.com
 
 <!---
